@@ -87,17 +87,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21xpqgt2fz7tanwfxtt2c5qda&cover_image=true&theme=default&show_offline=false&bar_color=2bfd1c&bar_color_cover=false" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=tarek1999allam&&style=flat-square" align="center" />
-</div>  
   
-
 <br/>  
 
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
