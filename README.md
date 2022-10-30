@@ -49,11 +49,12 @@
 </a>
 <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="proteus" width="40" height="40"/> 
 </a>
+<a href="https://community.platformio.org/t/platformio-toolbar-and-home-icon-not-showing-in-vscode/12334" target="_blank" rel="noreferrer"> <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="arduino" width="40" height="40"/> 
+</a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
-
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </a> 
