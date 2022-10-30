@@ -57,9 +57,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://linkedin.com/in/tarek1999allam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek1999allam" height="30" width="40" /></a>
 <a href="https://twitter.com/tarek99allam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarek99allam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tarek1999allam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek1999allam" height="30" width="40" /></a>
+
 
 <br/>  
 
