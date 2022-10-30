@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarek1999allam&label=Profile%20views&color=0e75b6&style=flat" alt="tarek1999allam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarek1999allam" alt="tarek1999allam" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/tarek99allam" target="blank"><img src="https://img.shields.io/twitter/follow/tarek99allam?logo=twitter&style=for-the-badge" alt="tarek99allam" /></a> </p>
 
