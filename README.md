@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Tarek, an Embedded Software Engineer 👨‍💻 graduated in 2022 👨‍🎓 working at VTS company on STIPS smart home start-up company 🚀</div>  
   
 
