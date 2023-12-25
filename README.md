@@ -1,10 +1,10 @@
 ### <div align="center">I'm Tarek, an Embedded Software Engineer 👨‍💻 graduated in 2022 👨‍🎓 working at VTS company on STIPS smart home start-up company 🚀</div>  
   
 
-- 🔭 I’m currently working on automation smart home devices   
+- 🔭 I’m currently working on IoT smart home devices   
   
 
-- 🌱 I’m currently learning C++  
+- 🌱 proffesional C++ and C 
   
 
 - ❓ Ask me about anything related to C and DRIVES   
