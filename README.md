@@ -1,4 +1,4 @@
-### <div align="center">I'm Tarek, an Embedded Software Engineer 👨‍💻 graduated in 2022 👨‍🎓 working at VTS company on STIPS smart home start-up company 🚀</div>  
+### <div align="center">I'm Tarek, an Embedded Software Engineer 👨‍💻 graduated in 2022 👨‍🎓 working at STIPS smart home and IoT start-up company 🚀</div>  
   
 
 - 🔭 I’m currently working on IoT smart home devices   
